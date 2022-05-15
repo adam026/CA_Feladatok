@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helsinki", "Helsinki\Helsin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kektura", "Kektura\Kektura.csproj", "{5A7CA4A6-8424-44FD-BD90-5170DF5A9F1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIFA", "FIFA\FIFA.csproj", "{27902949-671A-4E45-8B6C-F4BE983BE569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juventus", "Juventus\Juventus.csproj", "{03EE4CB9-EEDC-41CF-A601-2E47F1F5A51B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{5A7CA4A6-8424-44FD-BD90-5170DF5A9F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A7CA4A6-8424-44FD-BD90-5170DF5A9F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A7CA4A6-8424-44FD-BD90-5170DF5A9F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27902949-671A-4E45-8B6C-F4BE983BE569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27902949-671A-4E45-8B6C-F4BE983BE569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27902949-671A-4E45-8B6C-F4BE983BE569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27902949-671A-4E45-8B6C-F4BE983BE569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03EE4CB9-EEDC-41CF-A601-2E47F1F5A51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EE4CB9-EEDC-41CF-A601-2E47F1F5A51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EE4CB9-EEDC-41CF-A601-2E47F1F5A51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EE4CB9-EEDC-41CF-A601-2E47F1F5A51B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
